@@ -40,7 +40,7 @@ global.alivemsg =`HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️
 
 
 
-global.alivepic = "  https://i.ibb.co/wgtFb2V/null-20220930-WA0018.jpg " //you logo key 
+global.alivepic =   `https://i.ibb.co/wgtFb2V/null-20220930-WA0018.jpg`//you logo key 
 
 
 global.ownername = " KAVEESHA " //ur owner name
